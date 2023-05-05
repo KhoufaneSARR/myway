@@ -1,0 +1,785 @@
+/* screen - guide-de-voyages */
+
+.guide-de-voyages {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 4525px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.guide-de-voyages .group-6 {
+  align-items: center;
+  background-color: var(--big-stone);
+  display: flex;
+  height: 137px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 17px 75px;
+}
+
+.guide-de-voyages .logo {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 102px;
+  width: 153px;
+}
+
+.guide-de-voyages .overlap-group2 {
+  height: 64px;
+  margin-left: 89px;
+  margin-top: 13.0px;
+  position: relative;
+  width: 861px;
+}
+
+.guide-de-voyages .rubriques {
+  align-items: flex-start;
+  display: flex;
+  gap: 5px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: 854px;
+}
+
+.guide-de-voyages .frame-5 {
+  height: 44px;
+  min-width: 97px;
+}
+
+.guide-de-voyages .acceuil {
+  color: var(--white);
+  font-weight: 700;
+  left: 10px;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.guide-de-voyages .frame-4 {
+  height: 44px;
+  min-width: 197px;
+}
+
+.guide-de-voyages .guide-de-voyage {
+  color: var(--white);
+  font-weight: 700;
+  left: 10px;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.guide-de-voyages .frame-3 {
+  height: 44px;
+  min-width: 153px;
+}
+
+.guide-de-voyages .destinations {
+  color: var(--white);
+  font-weight: 700;
+  left: 10px;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.guide-de-voyages .frame-2 {
+  height: 44px;
+  min-width: 146px;
+}
+
+.guide-de-voyages .reservation {
+  color: var(--white);
+  font-weight: 700;
+  left: 10px;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.guide-de-voyages .frame-6 {
+  height: 44px;
+  min-width: 104px;
+}
+
+.guide-de-voyages .place {
+  color: var(--white);
+  font-weight: 700;
+  left: 10px;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.guide-de-voyages .icon-facebook {
+  height: 29px;
+  left: 846px;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+
+.guide-de-voyages .vector {
+  height: 25px;
+  margin-left: 30px;
+  width: 31px;
+}
+
+.guide-de-voyages .vector-1 {
+  height: 25px;
+  margin-left: 31px;
+  width: 39px;
+}
+
+.guide-de-voyages .icon-instagram {
+  height: 25px;
+  margin-left: 29px;
+  margin-top: 0.04px;
+  width: 25px;
+}
+
+.guide-de-voyages .bienvenue-au-sngal {
+  color: var(--tulip-tree);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 67.0px;
+  margin-top: 45px;
+  min-height: 49px;
+  min-width: 531px;
+}
+
+.guide-de-voyages .surname {
+  color: var(--big-stone);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 73.0px;
+  margin-top: 37px;
+  min-height: 49px;
+  min-width: 525px;
+}
+
+.guide-de-voyages .visa-sant-scurit {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 52.0px;
+  margin-top: 49px;
+  min-height: 29px;
+  min-width: 296px;
+}
+
+.guide-de-voyages .group-43 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  gap: 31px;
+  margin-left: 24px;
+  margin-top: 55px;
+  min-width: 1338px;
+}
+
+.guide-de-voyages .rectangle-61 {
+  height: 431px;
+  object-fit: cover;
+  width: 734px;
+}
+
+.guide-de-voyages .flex-col {
+  flex-direction: column;
+  gap: 100px;
+  min-height: 297px;
+  width: 569px;
+}
+
+.guide-de-voyages .visa {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  min-height: 29px;
+}
+
+.guide-de-voyages .pour-entrer-au-sng {
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s2);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 168px;
+  width: 569px;
+}
+
+.guide-de-voyages .span0 {
+  color: var(--black);
+  font-weight: 600;
+}
+
+.guide-de-voyages .group-45 {
+  align-items: flex-end;
+  display: flex;
+  gap: 25px;
+  margin-left: 10.0px;
+  margin-top: 135px;
+  min-width: 1402px;
+}
+
+.guide-de-voyages .rectangle-6 {
+  height: 431px;
+  width: 734px;
+}
+
+.guide-de-voyages .flex-col-1 {
+  align-items: flex-start;
+  gap: 69px;
+  min-height: 338px;
+  width: 639px;
+}
+
+.guide-de-voyages .sante {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 29px;
+}
+
+.guide-de-voyages .les-conditions-sanit {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 240px;
+  width: 639px;
+}
+
+.guide-de-voyages .group-47 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  gap: 22px;
+  margin-left: 24px;
+  margin-top: 117px;
+  min-width: 1329px;
+}
+
+.guide-de-voyages .flex-col-2 {
+  align-items: flex-start;
+  gap: 52px;
+  margin-bottom: 2px;
+  min-height: 273px;
+  width: 569px;
+}
+
+.guide-de-voyages .securite {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 4px;
+  min-height: 29px;
+}
+
+.guide-de-voyages .sjournez-dans-des-h {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 192px;
+  width: 569px;
+}
+
+.guide-de-voyages .chose-a-faire-au-senegal {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 55.0px;
+  margin-top: 105px;
+  min-height: 29px;
+  min-width: 361px;
+}
+
+.guide-de-voyages .group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 138px;
+  height: 654px;
+  margin-right: 18.0px;
+  margin-top: 53px;
+  min-width: 1296px;
+}
+
+.guide-de-voyages .group-49 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 640px;
+  width: 579px;
+}
+
+.guide-de-voyages .tourisme-culturel {
+  margin-left: 16px;
+  min-height: 29px;
+}
+
+.guide-de-voyages .rectangle-45 {
+  height: 336px;
+  margin-top: 13px;
+  object-fit: cover;
+  width: 575px;
+}
+
+.guide-de-voyages .lorem-ipsum-dolor-si {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 46px;
+  min-height: 216px;
+  width: 539px;
+}
+
+.guide-de-voyages .group-51 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 646px;
+  width: 579px;
+}
+
+.guide-de-voyages .tourisme-baleneaire {
+  margin-left: 4px;
+  min-height: 29px;
+}
+
+.guide-de-voyages .rectangle-46 {
+  height: 336px;
+  margin-top: 27px;
+  object-fit: cover;
+  width: 575px;
+}
+
+.guide-de-voyages .lorem-ipsum-dolor-si-1 {
+  margin-top: 38px;
+}
+
+.guide-de-voyages .flex-row {
+  align-self: flex-start;
+  height: 848px;
+  margin-left: -791.5px;
+  margin-top: 138px;
+  min-width: 2132px;
+}
+
+.guide-de-voyages .rectangle-16 {
+  align-self: flex-end;
+  height: 283px;
+  width: 331px;
+}
+
+.guide-de-voyages .group-53 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  margin-left: 522px;
+  margin-top: 2px;
+  min-height: 643px;
+  width: 580px;
+}
+
+.guide-de-voyages .tourisme-historique {
+  margin-left: 1px;
+  min-height: 25px;
+  white-space: nowrap;
+}
+
+.guide-de-voyages .rectangle-47 {
+  height: 336px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 575px;
+}
+
+.guide-de-voyages .group-55 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 120px;
+  min-height: 645px;
+  width: 579px;
+}
+
+.guide-de-voyages .tourisme-religieux {
+  min-height: 25px;
+  white-space: nowrap;
+}
+
+.guide-de-voyages .rectangle-48 {
+  height: 336px;
+  margin-top: 35px;
+  object-fit: cover;
+  width: 575px;
+}
+
+.guide-de-voyages .lorem-ipsum-dolor-si-3 {
+  margin-top: 33px;
+}
+
+.guide-de-voyages .component-3 {
+  align-items: center;
+  background-color: var(--big-stone);
+  display: flex;
+  flex-direction: column;
+  gap: 86px;
+  margin-top: 70px;
+  min-height: 633px;
+  width: 1440px;
+}
+
+.guide-de-voyages .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 22px;
+  margin-right: 91.0px;
+  margin-top: 67px;
+  min-width: 1055px;
+}
+
+.guide-de-voyages .flex-col-3 {
+  align-items: flex-start;
+  gap: 44px;
+  margin-top: 5.04px;
+  min-height: 289px;
+  width: 334px;
+}
+
+.guide-de-voyages .contactez-nous {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 24px;
+  width: 198px;
+}
+
+.guide-de-voyages .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 44px;
+  height: 221px;
+  min-width: 334px;
+}
+
+.guide-de-voyages .vector-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  min-height: 220px;
+  width: 40px;
+}
+
+.guide-de-voyages .vector-2 {
+  height: 36px;
+  width: 36px;
+}
+
+.guide-de-voyages .vector-3 {
+  height: 32px;
+  width: 40px;
+}
+
+.guide-de-voyages .vector-4 {
+  height: 40px;
+  margin-left: 4px;
+  width: 32px;
+}
+
+.guide-de-voyages .flex-col-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  min-height: 206px;
+  width: 250px;
+}
+
+.guide-de-voyages .text-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 24px;
+  width: 162px;
+}
+
+.guide-de-voyages .infomywaycom {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 59px;
+  min-height: 24px;
+  width: 187px;
+}
+
+.guide-de-voyages .address {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 74px;
+  min-height: 24px;
+  width: 250px;
+}
+
+.guide-de-voyages .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 92px;
+  height: 359px;
+  min-width: 699px;
+}
+
+.guide-de-voyages .flex-col-5 {
+  align-items: flex-start;
+  min-height: 359px;
+  width: 397px;
+}
+
+.guide-de-voyages .actualits-populaires {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 7px;
+  min-height: 24px;
+  width: 272px;
+}
+
+.guide-de-voyages .flex-container {
+  flex-direction: column;
+  gap: 15px;
+  height: 64px;
+  margin-top: 65px;
+  position: relative;
+  width: 397px;
+}
+
+.guide-de-voyages .text {
+  color: var(--persian-green);
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 397px;
+}
+
+.guide-de-voyages .address-1 {
+  color: var(--deep-space-sparkle);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 18px;
+  min-height: 24px;
+  width: 129px;
+}
+
+.guide-de-voyages .top-10-des-meilleurs {
+  color: var(--persian-green);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 61px;
+  min-height: 48px;
+  width: 284px;
+}
+
+.guide-de-voyages .address-2 {
+  color: var(--deep-space-sparkle);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 30px;
+  min-height: 24px;
+  width: 129px;
+}
+
+.guide-de-voyages .flex-col-6 {
+  align-items: flex-end;
+  gap: 52px;
+  min-height: 354px;
+  width: 210px;
+}
+
+.guide-de-voyages .flex-row-4 {
+  align-items: flex-end;
+  display: flex;
+  gap: 25px;
+  height: 239px;
+  min-width: 210px;
+}
+
+.guide-de-voyages .icon-media-record {
+  height: 165px;
+  margin-bottom: 1.02px;
+  width: 10px;
+}
+
+.guide-de-voyages .flex-col-7 {
+  align-items: flex-start;
+  min-height: 239px;
+  width: 175px;
+}
+
+.guide-de-voyages .liens {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 24px;
+  width: 61px;
+}
+
+.guide-de-voyages .guide-de-voyage-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 34px;
+  min-height: 24px;
+  width: 175px;
+}
+
+.guide-de-voyages .destinations-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 25px;
+  min-height: 24px;
+  width: 133px;
+}
+
+.guide-de-voyages .rservation {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 3px;
+  margin-top: 26px;
+  min-height: 24px;
+  width: 126px;
+}
+
+.guide-de-voyages .place-1 {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 4px;
+  margin-top: 32px;
+  min-height: 24px;
+  width: 84px;
+}
+
+.guide-de-voyages .frame-11 {
+  align-items: flex-start;
+  background-color: var(--tulip-tree);
+  display: flex;
+  gap: 10px;
+  margin-right: 2px;
+  padding: 20px;
+  width: fit-content;
+}
+
+.guide-de-voyages .contacter-nous {
+  color: var(--white);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.guide-de-voyages .overlap-group {
+  align-items: center;
+  background-color: #11263b;
+  display: flex;
+  height: 122px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 28.2px 70px;
+}
+
+.guide-de-voyages .vector-5 {
+  height: 25px;
+  margin-bottom: 0;
+  width: 25px;
+}
+
+.guide-de-voyages .address-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 9px;
+  margin-top: 5.06px;
+  min-height: 18px;
+  width: 440px;
+}
+
+.guide-de-voyages .group-5 {
+  height: 34px;
+  margin-bottom: 7.67px;
+  margin-left: 76px;
+  width: 125px;
+}
+
+.guide-de-voyages .politique-de-confidentialit {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 201px;
+  margin-top: 1.02px;
+  min-height: 18px;
+  width: 214px;
+}
+
+.guide-de-voyages .overlap-group1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: #5dcad1;
+  border-radius: 2px;
+  display: flex;
+  height: 62px;
+  margin-left: 59px;
+  min-width: 70px;
+  padding: 22.2px 24px;
+}
+
+.guide-de-voyages .icon-chevron-top {
+  height: 15px;
+  width: 22px;
+}
+
+.guide-de-voyages .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.guide-de-voyages .flex-col-8 {
+  display: flex;
+  flex-direction: column;
+}
+
+.guide-de-voyages .frame {
+  cursor: pointer;
+  position: relative;
+}
+
+.guide-de-voyages .lorem-ipsum-dolor-si-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 216px;
+  width: 539px;
+}
+
+.guide-de-voyages .tourisme {
+  letter-spacing: 0;
+  line-height: normal;
+}
